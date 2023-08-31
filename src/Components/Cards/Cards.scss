@@ -3,14 +3,45 @@ ul {
     justify-content: space-between;
     list-style: none;
     padding: 0;
-    margin: 1rem 2rem;
+    margin: 1rem 4rem;
     .cards {
         width: 25rem;
         height: 10rem;
-        background-color: #212121;
         color: #f1f1f1;
         border-radius: 1rem;
         margin: 1rem;
+        cursor: pointer;
+        img {
+            display: block;
+            width: 3rem;
+            margin: 3.5rem;
+        }
+        .cardBox1 {
+            margin: 0rem;
+            margin: auto;
+            margin-left: 2rem;
+            margin-right: 4rem;
+            p {
+                color: #171717;
+            }
+        }
+    }
+    .card1 {
+        background: linear-gradient(#6199d6, #a2a7e0);
+        display: flex;
+        justify-content: space-between;
+    }
+    .card2 {
+        background: linear-gradient(#dddddd, #f1f1f1);
+        color: #1f1f1f;
+        display: flex;
+        justify-content: space-between;
+    }
+    .card3 {
+        background: linear-gradient(#dddddd, #f1f1f1);
+        color: #1f1f1f;
+        display: flex;
+        justify-content: space-between;
     }
 }
 @media all and (max-width: 1200px) {
