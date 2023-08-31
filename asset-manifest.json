@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FintechWebApp/static/css/main.d1b93e9f.css",
+    "main.js": "/FintechWebApp/static/js/main.918e9ea9.js",
+    "static/js/787.5ea1e7fa.chunk.js": "/FintechWebApp/static/js/787.5ea1e7fa.chunk.js",
+    "static/media/polygon.png": "/FintechWebApp/static/media/polygon.45253e572dfabfab19a0.png",
+    "static/media/bill.png": "/FintechWebApp/static/media/bill.22bb5ddd3543e4c1d1ed.png",
+    "index.html": "/FintechWebApp/index.html",
+    "main.d1b93e9f.css.map": "/FintechWebApp/static/css/main.d1b93e9f.css.map",
+    "main.918e9ea9.js.map": "/FintechWebApp/static/js/main.918e9ea9.js.map",
+    "787.5ea1e7fa.chunk.js.map": "/FintechWebApp/static/js/787.5ea1e7fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b93e9f.css",
+    "static/js/main.918e9ea9.js"
+  ]
+}
